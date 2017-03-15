@@ -1,3 +1,4 @@
+%线性回归matlab
 %read file
 m = csvread('regdata.csv');
 X = m(:,1:2);
