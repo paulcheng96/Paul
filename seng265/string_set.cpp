@@ -1,3 +1,4 @@
+//hash table with linked list
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
