@@ -1,3 +1,4 @@
+%梯度下降法
 function [w, E_history] = gradientDescentMulti(X, Y, w, kappa, num_iters)
 % Initialize some useful values
 m = length(Y); % number of training examples
