@@ -1,0 +1,25 @@
+ Part I
+
+Assignment 4 is to re-implement Assignment 3 in C, rather than assembly language.
+
+I've posted some sample code in Resources->a4.
+
+You will need to create a new C project and then add the following files to "Source Files" (right click, add existing)
+
+a4.c
+
+lcd_drv.c
+
+And then add the following to "Header Files" (right click, add existing):
+
+lcd_drv.h
+
+main.h
+
+mydefs.h
+
+I've also included some code that uses the A2D to read the buttons in button.c.  You should NOT include this code directly, you'll need to turn it into a function, but you are free to copy and paste it as you like.
+
+IMPORTANT:
+
+In Lab 9 you will be shown some changes you have to make to the project settings in order to make C projects work.  Don't forget to make those changes to your assignment 4 project too! (See page 2 of the Lab9 notes).
