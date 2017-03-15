@@ -1,0 +1,18 @@
+Checking sorted for 100 inputs:  
+Sorted 
+Total Time (seconds):  
+0.001 
+Comparsion times: 
+723 
+Checking sorted for 1000 inputs:  
+Sorted 
+Total Time (seconds):  
+0.001 
+Comparsion times: 
+12141 
+Checking sorted for 10000 inputs:  
+Sorted 
+Total Time (seconds):  
+0.004 
+Comparsion times: 
+171212 
